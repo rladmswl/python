@@ -1,4 +1,6 @@
 # dice game
+#주사위 게임
+
 
 import random
 import time
